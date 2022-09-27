@@ -66,3 +66,18 @@ footer {
 }
 
 
+@media screen and (max-width: 768px) {
+main {
+  width: 425px;
+  margin: 50px auto;
+  display: block;
+}
+
+.step-box {
+  width: 405px;
+  margin-right: 100px;
+  padding: 20px;
+  position: relative;
+
+  }
+}
